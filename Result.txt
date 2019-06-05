@@ -1,0 +1,31 @@
+
+ Database  <==================>  Python
+
+
+======>1) The All time popular 3  Articals are:
+
+------------> Candidate is jerk, alleges rival - 338647 Views
+------------> Bears love berries, alleges bear - 253801 Views
+------------> Bad things gone, say good people - 170098 Views
+
+
+
+======>2) The Most popular Artical Authors are:
+
+------------> Ursula La Multa - 507594 Views
+------------> Rudolf von Treppenwitz - 423457 Views
+------------> Anonymous Contributor - 170098 Views
+------------> Markoff Chaney - 84557 Views
+
+
+
+======>3) Days with more than 1% of errors are:
+
+------------> 2016-07-17  =  2.26% Errors
+
+
+
+ Three Solutions output printing completed.
+
+Database  ========>  X  <========  Python
+
